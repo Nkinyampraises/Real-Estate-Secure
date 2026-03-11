@@ -52,7 +52,7 @@ Max of words: pear
 
 The constraint uses `Comparable<Object?>` instead of `Comparable<T>` so that
 types like `int` (which implement `Comparable<num>`) work with type inference.
-# Delegation Logger in Dart
+# Assignment 5 Delegation Logger in Dart
 
 This project demonstrates a simple logging system using class delegation in Dart.
 
